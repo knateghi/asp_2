@@ -68,5 +68,6 @@ namespace ASP_Core_EF
                     template: "{controller=Home}/{action=Index}/{id?}");
             });
         }
+        //changing the startup
     }
 }
