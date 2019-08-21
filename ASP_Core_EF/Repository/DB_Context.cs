@@ -18,6 +18,7 @@ namespace ASP_Core_EF.Repository
         public DbSet<Course> Courses { get; set; }
         public DbSet<Enrollment> Enrollments { get; set; }
         public DbSet<Gender> Genders { get; set; }
+        //added the four tables
     }
 }
 
